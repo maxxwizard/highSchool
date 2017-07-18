@@ -1,0 +1,10 @@
+Williamson, William 87 76 91
+Roberts, Robert     56 87 76
+Robbins, Robin      76 -1 92
+Stevens, Steven     98 92 75
+Johnson, Johanna    94 85 88
+Jamison, James      -1 -1 -1
+Paulson, Paula      60 65 71
+Jennings, Jen       72 62 68
+Benjamin, Ben       96 98 92
+Carlson, Carla      88 -1 -1
